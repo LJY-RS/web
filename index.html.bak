@@ -98,20 +98,12 @@ I work in the field of photogrammetry, geometric computer vision, remote sensing
 <p><font size="4"><b>2022</b></font>: </p>
 <font size="3"> 
 <ul>
-
+	
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
-<li><span> <b>J. Li</b>, W Xu, P Shi, Y Zhang, Q Hu,
-“LNIFT: Locally Normalized Image for Rotation Invariant Multimodal Feature Matching,” 
-<i>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>)</i>, 2022. 
-[PDF] [Code]
-</span></li>
-</p>
-
-<p style="text-indent: -1.6rem;margin-left: 0rem;">
-<li><span> <b>J. Li</b>, Q Hu, Y Zhang, M Ai, 
-“Robust symmetric iterative closest point,” 
-<i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS JP&RS</b>)</i>, 2022. 
-[PDF] [Code]
+<li><span> Y Yao, Y Zhang, Y Wan, X Liu, X Yan, <b>J. Li</b>
+“Multi-Modal Remote Sensing Image Matching Considering Co-Occurrence Filter,” 
+<i>IEEE Transactions on Image Processing (<b>IEEE TIP</b>)</i>, 2022. 
+[PDF] 
 </span></li>
 </p>
 	
