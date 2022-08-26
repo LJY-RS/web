@@ -98,12 +98,36 @@ I work in the field of photogrammetry, geometric computer vision, remote sensing
 <p><font size="4"><b>2022</b></font>: </p>
 <font size="3"> 
 <ul>
-	
+
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
-<li><span> Y Yao, Y Zhang, Y Wan, X Liu, X Yan, <b>J. Li</b>
-“Multi-Modal Remote Sensing Image Matching Considering Co-Occurrence Filter,” 
-<i>IEEE Transactions on Image Processing (<b>IEEE TIP</b>)</i>, 2022. 
-[PDF] 
+<li><span> <b>J. Li</b>, P Shi, Q Hu, Y Zhang, 
+“QGORE: Quadratic-time Guaranteed Outlier Removal for Point Cloud Registration,” 
+<i>submitted</i>, 2022. 
+[PDF] [Code]
+</span></li>
+</p>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<li><span> <b>J. Li</b>, W Xu, Q Hu, Y Zhang,
+“RIFT2: Speeding-up RIFT with A New Rotation-Invariance Technique,” 
+<i>submitted</i>, 2022. 
+[PDF] [Code]
+</span></li>
+</p>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<li><span> <b>J. Li</b>, W Xu, P Shi, Y Zhang, Q Hu,
+“LNIFT: Locally Normalized Image for Rotation Invariant Multimodal Feature Matching,” 
+<i>IEEE Transactions on Geoscience and Remote Sensing (<b>IEEE TGRS</b>)</i>, 2022. 
+[PDF] [Code]
+</span></li>
+</p>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<li><span> <b>J. Li</b>, Q Hu, Y Zhang, M Ai, 
+“Robust symmetric iterative closest point,” 
+<i>ISPRS Journal of Photogrammetry and Remote Sensing (<b>ISPRS JP&RS</b>)</i>, 2022. 
+[PDF] [Code]
 </span></li>
 </p>
 	
@@ -119,7 +143,8 @@ I work in the field of photogrammetry, geometric computer vision, remote sensing
 <li><span> <b>李加元</b>, 张永军, 胡庆武
 “渐进性优化的尺度自适应Cauchy稳健估计算法及其应用,” 
 <i>测绘学报</i>, 2022. 
-[PDF] [Code]
+[PDF]
+[<a href= "https://github.com/LJY-RS/SA_Cauchy" target="_blank">Code</a>]
 </span></li>
 </p>	
 	
