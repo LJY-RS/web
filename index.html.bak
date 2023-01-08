@@ -108,6 +108,22 @@ I work in the field of photogrammetry, geometric computer vision, remote sensing
 <ul>
 
 <p style="text-indent: -1.6rem;margin-left: 0rem;">
+<li><span>  W Xu, X Yuan, Q Hu, <b>J. Li</b>,
+“SAR-Optical Feature Matching: A Large-scale Patch Dataset and A Deep Local Descriptor,” 
+<i>submitted</i>, 2022. 
+[PDF] [Code]
+</span></li>
+</p>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
+<li><span>  P Shi, <b>J. Li</b>, Y Zhang,
+“A Super-Fast Map-Aided Approach for 3d Place Recognition and Localization,” 
+<i>submitted</i>, 2022. 
+[PDF] [Code]
+</span></li>
+</p>
+
+<p style="text-indent: -1.6rem;margin-left: 0rem;">
 <li><span> <b>J. Li</b>, P Shi, Q Hu, Y Zhang, 
 “QGORE: Quadratic-time Guaranteed Outlier Removal for Point Cloud Registration,” 
 <i>submitted</i>, 2022. 
